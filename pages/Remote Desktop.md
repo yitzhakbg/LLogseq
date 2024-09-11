@@ -1,0 +1,5 @@
+- [Xpra](https://github.com/Xpra-org/xpra/?tab=readme-ov-file) , Promising remote desktop app with audio. Has html5 client
+- [Nice DVC looks good too](https://aws.amazon.com/hpc/dcv/)
+- [Supremo](https://www.supremocontrol.com/)
+- [Remotly](https://remotly.com/)
+- [Hi End Ubuntu Derktop with Docker on AWS](https://aws.amazon.com/marketplace/pp/prodview-ch24i42e34ezm#pdp-pricing)

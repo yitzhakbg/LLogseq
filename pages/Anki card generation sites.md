@@ -1,0 +1,3 @@
+- [AI flashcard generators ](https://theresanaiforthat.com/flashcards/)
+- [Anki specific AI card generators](https://theresanaiforthat.com/anki)
+-

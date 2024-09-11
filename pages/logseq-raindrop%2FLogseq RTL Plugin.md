@@ -1,0 +1,1 @@
+- Describes how to get RTL functionality in Logseq on a per block basis by adding custom.js file

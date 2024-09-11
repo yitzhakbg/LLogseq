@@ -1,1 +1,1 @@
-# ybg_Logseq# LLogseq
+# ybg_Logseq

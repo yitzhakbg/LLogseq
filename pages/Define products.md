@@ -1,0 +1,3 @@
+- סדנא ראשית אנקי
+	- מה זה [[Spaced Repetition]], מה זה [[Anki]]
+	- התקנת Anki
